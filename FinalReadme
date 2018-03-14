@@ -1,0 +1,22 @@
+Final Readme
+Hayden Berge
+7/1/2014
+
+This scene depicts a basement pool table. There is a pool table, lights hanging above the table, a bookcase, and a picture. There is a floor and a ceiling that are visible with the light turned up. Fog can also be enabled or disable. I am most proud of the pool table and pool balls. I believe the pockets and the balls look very realistic. I hope to add to this later and make an actual functioning pool game. I also think the fog adds a really cool touch. 
+
+Lighting
+The light can be user controlled using l to toggle on/off light, and T, Y, and u to change lighting properties. 
+T-ambient
+Y-diffuse
+U-specular
+Capital letters will increase the values and lower case will decrease.
+
+Camera/Movement
+The camera can be controlled using the arrow keys to rotate the camera angle.
+F1 will change the textures of the walls.
+WASD moves the position of the camera. (w forward, s back, a left, d right). If user turns around they are reversed.
+v will move the camera up and V will move it back down.
+F2 and F3 change the dimension.
+
+Fog
+f will create fog and F will turn it off.
